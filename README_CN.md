@@ -61,7 +61,7 @@ mymysql:
 postgres:
 `xorm reverse postgres "dbname=xorm_test sslmode=disable" templates/goxorm`
 
-之后将会生成代码 generated go files in `./model` directory
+之后将会生成代码 generated go files in `./models` directory
 
 ### 模版和配置
 

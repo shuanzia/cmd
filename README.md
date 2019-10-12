@@ -62,7 +62,7 @@ postgres:
 mssql:
 `xorm reverse mssql "server=test;user id=testid;password=testpwd;database=testdb" templates/goxorm`
 
-will generated go files in `./model` directory
+will generated go files in `./models` directory
 
 ### Template and Config
 
